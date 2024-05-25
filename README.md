@@ -1,4 +1,6 @@
-Hi there 👋, I'm Natali Chaaban
+Hi there 👋
+
+I'm Natali Chaaban - a computer science student currently learning mobile app development.
 
 <!--
 **nchab6/nchab6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
