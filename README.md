@@ -1,4 +1,4 @@
-[![MasterHead](![untitled (1)](https://github.com/user-attachments/assets/e4cde37b-fd91-4a90-b3e8-17dd38d956c9)
+[untitled (1)](https://github.com/user-attachments/assets/e4cde37b-fd91-4a90-b3e8-17dd38d956c9)
 <h1 align="center">Hi 👋, I'm Natali Chaaban</h1>
 <h3 align="center">A passionate backend developer</h3>
 <img
