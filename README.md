@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natali Chaaban</h1>
 <h3 align="center">A passionate backend developer</h3>
-<img align="center" alt="Coding" width="600" src="https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174742372?e=1732147200&v=beta&t=FeC2wmArmfrOBJkSUwFANAGxTVJUaZj6XnsUPyYNYRs">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174742372?e=1732147200&v=beta&t=FeC2wmArmfrOBJkSUwFANAGxTVJUaZj6XnsUPyYNYRs">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nchab6" alt="nchab6" /></a> </p>
 
