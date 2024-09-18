@@ -6,7 +6,6 @@
     width="400"
     style="display: block; margin-left: auto; margin-right: auto;"
 >
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nchab6" alt="nchab6" /></a> </p>
 
 - 🔭 I’m currently working on [launching a mobile app](https://github.com/vickywxng/tastebuds)
@@ -37,5 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nchab6&show_icons=true&locale=en&layout=compact" alt="nchab6" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nchab6&show_icons=true&locale=en" alt="nchab6" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nchab6&" alt="nchab6" /></p>
