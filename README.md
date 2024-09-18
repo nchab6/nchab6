@@ -1,4 +1,6 @@
+<!---
 <img src="![untitled (2)](https://github.com/user-attachments/assets/903bf412-e40c-4953-9f93-dcd2ea11637e)">
+--->
 <h1 align="center">Hi 👋, I'm Natali Chaaban</h1>
 <h3 align="center">A passionate backend developer</h3>
 <img
@@ -7,7 +9,9 @@
     width="200"
     style="display: block; margin-left: auto; margin-right: auto;"
 >
+<!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nchab6" alt="nchab6" /></a> </p>
+--->
 
 - 🔭 I’m currently working on [launching a mobile app](https://github.com/vickywxng/tastebuds)
 
