@@ -2,7 +2,7 @@
 <img src="![untitled (2)](https://github.com/user-attachments/assets/903bf412-e40c-4953-9f93-dcd2ea11637e)">
 --->
 <h1 align="center">Hi 👋, I'm Natali Chaaban</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 <img
     src="https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174742372?e=1732147200&v=beta&t=FeC2wmArmfrOBJkSUwFANAGxTVJUaZj6XnsUPyYNYRs"
     alt="Coding"
