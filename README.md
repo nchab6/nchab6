@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Natali Chaaban</h1>
 <h3 align="center">Fullstack Developer</h3>
 <img
-    src="[https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174742372?e=1732147200&v=beta&t=FeC2wmArmfrOBJkSUwFANAGxTVJUaZj6XnsUPyYNYRs](https://cdn.dribbble.com/userupload/23767519/file/original-77c50c1cc3f9e2d5d0832fddd9616a11.gif)"
+    src="[https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174742372?e=1732147200&v=beta&t=FeC2wmArmfrOBJkSUwFANAGxTVJUaZj6XnsUPyYNYRs]"
     alt="Coding"
     width="400"
     style="display: block; margin-center: auto; margin-right: auto;"
