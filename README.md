@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natali Chaaban</h1>
 <h3 align="center">Software Engineer</h3>
-<img
-    src="https://cdn.dribbble.com/userupload/23767519/file/original-77c50c1cc3f9e2d5d0832fddd9616a11.gif"
-    alt="Coding"
-    width="400"
-    style="display: block; margin-center: auto; margin-right: auto;"
->
 <!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nchab6" alt="nchab6" /></a> </p>
 --->
